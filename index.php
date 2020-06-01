@@ -1,7 +1,7 @@
 
 <?php
 
-print "HELLO";
+printss "HELLO";
 print "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
