@@ -1,7 +1,9 @@
 
 <?php
 
-printss "HELLO  hi";
+print `ifconfig`;
+
+print "HELLO  hi";
 print "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
