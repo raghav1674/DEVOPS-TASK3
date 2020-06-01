@@ -1,4 +1,4 @@
-<pre>
+
 <?ph
 print "HELLO HOW ARE YOU ??";
 
