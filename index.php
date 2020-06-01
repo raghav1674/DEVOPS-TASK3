@@ -2,7 +2,7 @@
 <?php
 
 
-printhhh "HELLO HOW ARE YOU ??";
+print "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
 
