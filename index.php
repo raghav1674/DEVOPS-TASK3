@@ -1,6 +1,6 @@
 <pre>
 <?php
-printHELLO HOW ARE YOU ??";
+print "HELLO HOW ARE YOU ??";
 <br>
 print "GOOD NICE";
 <br>
