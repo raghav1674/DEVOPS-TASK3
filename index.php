@@ -1,5 +1,5 @@
 <pre>
-<?ph
+<?php
 print "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
