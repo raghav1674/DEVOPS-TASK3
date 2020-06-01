@@ -1,7 +1,5 @@
 <pre>
 <?php
-
-
 print "HELLO HOW ARE YOU ??";
 <br>
 print "GOOD NICE";
