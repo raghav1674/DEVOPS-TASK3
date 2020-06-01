@@ -13,7 +13,6 @@ RUN yum install php-common \
     ncurses \
     net-tools -y
 COPY ./index.php   /var/www/html/
-#new
-#CMD ["/bin/bash"]
+RUN echo "ServerName 0.0.0.0:80" >> /etc/httpd/conf/httpd.conf
 EXPOSE 80
 
