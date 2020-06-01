@@ -1,6 +1,8 @@
 
-<?ph
-print "HELLO HOW ARE YOU ??";
+<?php
+
+
+printhhh "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
 
@@ -14,4 +16,4 @@ print "bye";
 ?>
 
 
-</pre>
+
