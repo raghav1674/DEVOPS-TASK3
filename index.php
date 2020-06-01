@@ -4,9 +4,10 @@ print `ifconfig`;
 
 print "HELLO HOW ARE YOU ??";
 print "GOOD NICE";
+<br>
 print "very good";
-
-print "by
+<br>
+print "bye";
 
 
 
