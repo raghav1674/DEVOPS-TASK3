@@ -13,6 +13,6 @@ RUN yum install php-common \
     ncurses \
     net-tools -y
 COPY ./index.php   /var/www/html/
-CMD ["/bin/bash"]
+#CMD ["/bin/bash"]
 EXPOSE 80
 
