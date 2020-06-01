@@ -1,8 +1,8 @@
 
 <?php
 
-
-printDD "HELLO HOW ARE YOU ??";
+print "HELLO";
+print "HELLO HOW ARE YOU ??";
 
 print "GOOD NICE";
 
